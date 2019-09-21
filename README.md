@@ -1,5 +1,5 @@
 SUMADOR
 =======
 
-En este proyecto comienzo con el modelo de programación MVC en PHP y usando objetos.
-------------------------------------------------------------------------------------
+En este proyecto comienzo con el modelo de programación MVC en PHP.
+-------------------------------------------------------------------
